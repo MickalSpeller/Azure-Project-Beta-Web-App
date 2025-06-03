@@ -29,7 +29,7 @@ https://www.mickalspeller.com/
 - Resource group and App Service management  
 - CI/CD concepts
 - Azure CLI or Bicep familiarity  
-- DNS Zone installation and configuration  
+- Azure DNS deoployment and configurations.
 
 # Code Snippets
 

@@ -29,7 +29,7 @@ https://www.mickalspeller.com/
 - Resource group and App Service management  
 - CI/CD concepts
 - Azure CLI or Bicep familiarity  
-- Azure DNS deoployment and configurations.
+- Azure DNS deoployment and configurations(A Records, CNAME, NS)
 
 # Code Snippets
 

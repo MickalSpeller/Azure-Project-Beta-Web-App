@@ -20,7 +20,7 @@ Azure DNS
 # Network Security Configurations
 
 # Outcome & Results
-take a look at the end result:  
+Check out the end result:  
 https://www.mickalspeller.com/  
 
 *Below are the areas of the project that I gained some experience and practice:

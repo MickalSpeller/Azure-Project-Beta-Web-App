@@ -20,11 +20,16 @@ Azure DNS
 # Network Security Configurations
 
 # Outcome & Results
-Real Real-world Azure deployment skills  
-Resource group and App Service management  
-CI/CD basics  
-Azure CLI or Bicep familiarity  
-Public demo project you can share  
+take a look at the end result:  
+https://www.mickalspeller.com/  
+
+*Below are the areas of the project that I gained some experience and practice:
+
+- Learned Real-world Azure deployment skills using Azure Web App services 
+- Resource group and App Service management  
+- CI/CD concepts
+- Azure CLI or Bicep familiarity  
+- DNS Zone installation and configuration  
 
 # Code Snippets
 
